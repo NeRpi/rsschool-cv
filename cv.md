@@ -5,12 +5,12 @@
 **Age:** 20 years old  
 **Desired position:** Programmer
 
-## Contact details
-
-📧 dmitrykruk12@gmail.com  
-![](/statics/telegram.svg) @nerpi  
-![](/statics/linked.in.svg) Nerpi  
-![](/statics/skype.svg) Nerpi
+**Contact details**  
+[![](/statics/gmail.svg)](mailto:dmitrykruk12@gmail.com)
+[![](/statics/github.svg)](https://github.com/NeRpi)
+[![](/statics/telegram.svg)](https://t.me/nerpi4)
+[![](/statics/linked.in.svg)](https://www.linkedin.com/in/nerpi/)
+[![](/statics/skype.svg)](https://join.skype.com/invite/Chg5F92dNNd1)
 
 ## About me
 
