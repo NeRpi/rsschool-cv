@@ -1,5 +1,7 @@
 ## Kruk Dmitry
 
+![](/statics/profile.picture.jpg)
+
 **Age:** 20 years old  
 **Desired position:** Programmer
 
