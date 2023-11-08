@@ -1,63 +1,64 @@
-# Крук Дмитрий Николаевич
+## Kruk Dmitry
 
-**Возраст:** 20 лет  
-**Желаемая должность:** Программист
+**Age:** 20 years old  
+**Desired position:** Programmer
 
-## Контактные данные
+## Contact details
 
 📧 dmitrykruk12@gmail.com  
 ![](/statics/telegram.svg) @nerpi  
 ![](/statics/linked.in.svg) Nerpi  
 ![](/statics/skype.svg) Nerpi
 
-## О себе
+## About me
 
-Молодой специалист, в сфере веб-разработки. Обладаю уверенными знаниями в JS и TS. Реализовывал собственный API. Умею работать с реляционными базами данными как PostgreSQL. Есть опыт использования системы контроля версии git и Docker. Также имеется опыт работы с React.
-Из личностных качеств могу выделить усидчивость, самостоятельность, педантичность. Обладаю высокими аналитическими способностями, оригинальностью и постоянным стремлением к профессиональному росту.
+A young professional, in the field of web development. I have confident knowledge in JS and TS. Implemented my own API. I know how to work with relational databases like PostgreSQL. Have experience with git and Docker version control system. There is also experience with React.
 
-## Качества
+From personal qualities I can single out diligence, independence, pedantry. I have high analytical skills, originality and constant striving for professional growth.
 
-- Усидчивость
-- Внимательность
-- Аккуратность
-- Самостоятельность
-- Коммуникабельность
+## Qualities
 
-## Хобби
+- Assiduousness
+- Attentiveness
+- Accuracy
+- Independence
+- Communicability
 
-- Спорт
-- Еда
+## Hobbies
 
-## Навыки
+- Sport
+- Food
 
-- JavaScript срейдний
-- React базовый
-- HTML5, CSS начальный
+## Skills
+
+- JavaScript medium
+- React basic
+- HTML5, CSS basic
 - TypeScript, Node.js Express
 - TypeORM, Jest
 - PosgreSQL, MongoDB
 - Git, Docker
 - REST
-- Тестирование, ООП
+- Testing, OOP
 
-## Примеры кода
+## Code examples
 
 https://github.com/NeRpi/iTechArtPractice
 
-## Практический опыт
+## Practical experience
 
-**Июнь 2023 - Июль 2023** 1 месяц  
-**Организация:** ООО «iTechArt»  
-**Должность:** Стажёр программист
+**June 2023 - July 2023** 1 month  
+**Organisation:** iTechArt Ltd.  
+**Job Title:** Intern Programmer
 
-## Образование
+## Education
 
-**Год окончания:** 2024  
-**Название:** БрГТУ  
-**Факультет:** Программное обеспечение информационных технологий  
-**Специальность:** Инженер-программист  
-**Статус:** В процессе
+**Graduation Year:** 2024  
+**Name:** BSTU  
+**Faculty:** Software of information technologies  
+**Speciality:** Programme Engineer  
+**Status:** In progress
 
-## Языки
+## Languages
 
-**Английский:** B1 - Средний
+**English:** B1 - Pre-Intermediate
