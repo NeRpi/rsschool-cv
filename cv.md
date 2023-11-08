@@ -18,7 +18,7 @@ A young professional, in the field of web development. I have confident knowledg
 
 From personal qualities I can single out diligence, independence, pedantry. I have high analytical skills, originality and constant striving for professional growth.
 
-## Qualities
+### Qualities
 
 - Assiduousness
 - Attentiveness
@@ -26,7 +26,7 @@ From personal qualities I can single out diligence, independence, pedantry. I ha
 - Independence
 - Communicability
 
-## Hobbies
+### Hobbies
 
 - Sport
 - Food
